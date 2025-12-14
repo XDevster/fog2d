@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fog2d"
+version = "0.1.0"
+description = "Fog2D: Console 2D Engine"
+dependencies = ["colorama"]
+authors = [{name="XDevster"}]
+license = "BSD 3-Clause License"
